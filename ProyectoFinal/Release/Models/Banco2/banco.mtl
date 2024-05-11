@@ -1,0 +1,22 @@
+newmtl banco:Material_001
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.74 0.74 0.74
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl banco:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd asiento.png
+Ni 1.00
+newmtl banco:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patas.png
+Ni 1.00
