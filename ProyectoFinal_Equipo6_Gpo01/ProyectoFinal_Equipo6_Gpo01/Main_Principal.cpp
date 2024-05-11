@@ -189,6 +189,7 @@ int main()
 
 	//Carga de los Modelos/objetos correspondientes a la estructura y la fachada
 	Model Calle((char*)"ModelsEstructura/1_Calle/calle.obj");
+	Model Base((char*)"ModelsEstructura/estructBase/base.obj");
 	
 
 	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
@@ -463,7 +464,7 @@ int main()
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Calle.Draw(lightingShader);
-
+		Base.Draw(lightingShader);
 
 		//**************************************************************ANIMACION SIMPLE ************************
 
