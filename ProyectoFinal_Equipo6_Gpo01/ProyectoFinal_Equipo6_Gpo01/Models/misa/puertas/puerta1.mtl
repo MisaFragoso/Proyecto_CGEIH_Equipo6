@@ -1,3 +1,259 @@
+newmtl Barrière_Balcon_SH3D:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D1:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D1:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D2:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D2:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D3:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D3:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D4:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D4:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D6:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D6:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D12:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D12:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D13:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D13:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D14:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D14:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D17:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D18:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D24:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D24:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D25:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D25:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D26:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D26:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D27:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D28:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Barrière_Balcon_SH3D29:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl Bench_01SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bench_01_MTL_01_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Bench_01_MTL_01_Roughness.png
+Ns 4.31
 newmtl CircleSG
 illum 4
 Kd 0.09 0.04 0.01
@@ -48,6 +304,33 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.20 0.20 0.20
 Ns 34.00
+newmtl EpipremiumFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coconut.jpg
+Ni 1.00
+Ks 0.05 0.02 0.01
+Ns 0.00
+newmtl EpipremiumFBXASC046001SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd epipremmium_texture_01.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl EpipremiumFBXASC046001SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd epipremmium_texture_01.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
 newmtl Icecreambooth:Icecreambooth
 illum 4
 Kd 0.00 0.00 0.00
@@ -297,6 +580,316 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.00
+newmtl PalmFBXASC04602SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd terracotta.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl Palm_01SG
+illum 4
+Kd 0.11 0.23 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.06 0.02
+Ns 23.00
+newmtl Palm_01SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd heather-mckean-dbXT8Q-rH0c-unsplash.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl Palm_03SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd terazzo.jpg
+Ni 1.00
+Ks 0.03 0.03 0.03
+Ns 23.00
+newmtl SnakePlant_01SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl SnakePlant_01SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd soil.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl SnakePlant_01SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sansiviera.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl blow_glassSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd blow_glass.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl bocina:aiStandardSurface2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:aiStandardSurface7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bocina:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bocina:initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bocina:initialShadingGroup4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bocina:initialShadingGroup6
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bocina:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mateN.jpg
+Ni 1.00
+newmtl bocina:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.png
+Ni 1.00
+newmtl bocina:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mateN.jpg
+Ni 1.00
+newmtl bocina:lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.png
+Ni 1.00
+newmtl bocina:lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mateN.jpg
+Ni 1.00
+newmtl bocina:lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.png
+Ni 1.00
+newmtl bocina:lambert2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mateN.jpg
+Ni 1.00
+newmtl bocina:lambert2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.png
+Ni 1.00
+newmtl bocina:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.jpg
+Ni 1.00
+newmtl bocina:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.jpg
+Ni 1.00
+newmtl bocina:lambert3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.jpg
+Ni 1.00
+newmtl bocina:lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.jpg
+Ni 1.00
+newmtl bocina:lambert3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.jpg
+Ni 1.00
+newmtl bocina:lambert3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.jpg
+Ni 1.00
+newmtl bocina:lambert3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisT.jpg
+Ni 1.00
+newmtl bocina:lambert3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.jpg
+Ni 1.00
+newmtl bocina:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+newmtl bocina:lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
 newmtl c8815a1bf0e8_A_elegant_young_wom:base_material
 illum 4
 Kd 0.00 0.00 0.00
@@ -370,6 +963,34 @@ map_Kd 948a79519ba4_a_cash_register__3d_texture_kd.jpg
 Ni 1.50
 Ks 0.50 0.50 0.50
 Ns 0.06
+newmtl cajahotdog:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mateN.png
+Ni 1.00
+newmtl cajahotdog:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl cartSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl cart_decorSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
 newmtl casual_Female_G_model:peopleColors
 illum 4
 Kd 0.00 0.00 0.00
@@ -812,6 +1433,12 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks Fire_Extinguisher_lambert1_Normal.png
 Ns 18.00
+newmtl grillSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
 newmtl hotdog:lambert11SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -1164,6 +1791,12 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd blanco.png
 Ni 1.00
+newmtl lightSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
 newmtl little_boy_B_model:peopleColors
 illum 4
 Kd 0.00 0.00 0.00
@@ -1174,6 +1807,18 @@ map_Ka world_people_colors.png
 Ni 1.50
 Ks 0.00 0.00 0.00
 Ns 0.00
+newmtl mesh0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Beanch_albedo.png
+map_Ka Beanch_ao.png
+bump  -bm 0.3 Beanch_normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Beanch_metalness.png
+Ns 98.00
 newmtl monitor:phong1SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -1184,6 +1829,480 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks SPEC_MAP_PLAT.png
 Ns 18.00
+newmtl pCube1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCube1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCube1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder8SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder9SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder11SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder12SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder13SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder14SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder15SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder16SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder17SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder18SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder18SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder19SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder19SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder20SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder20SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder21SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder21SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder22SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder22SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder23SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder23SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder24SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder24SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder25SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pCylinder25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pPlane1SG
+illum 4
+Kd 0.22 0.19 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
 newmtl palom:phong1SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -9764,6 +10883,4846 @@ map_Kd plata.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
+newmtl palom39:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom39:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom39:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom39:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom39:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom39:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom40:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom40:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom40:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom40:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom40:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom41:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom41:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom41:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom41:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom41:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom42:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom42:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom42:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom42:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom42:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom43:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom43:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom43:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom43:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom43:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom44:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom44:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom44:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom44:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom44:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom45:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom45:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom45:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom45:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom45:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom46:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom46:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom46:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom46:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom46:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom47:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom47:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom47:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom47:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom47:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom48:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom48:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom48:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom48:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom48:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom49:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom49:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom49:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom49:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom49:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom50:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom50:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom50:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom50:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom50:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom51:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom51:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom51:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom51:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom51:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom52:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom52:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom52:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom52:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom52:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom53:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom53:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom53:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom53:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom53:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom54:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom54:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom54:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom54:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom54:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom55:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom55:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom55:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom55:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom55:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom56:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom56:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom56:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom56:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom56:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom57:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom57:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom57:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom57:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom57:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom58:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom58:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom58:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom58:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom58:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom59:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom59:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom59:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom59:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom59:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong2SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metAzul.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom60:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom60:phong3SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom60:phong3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metNeg.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecMet.png
+Ns 18.00
+newmtl palom60:phong3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd letpop.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl palom60:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
 newmtl pantalla:initialShadingGroup
 illum 4
 Kd 0.00 0.00 0.00
@@ -9785,6 +15744,16 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd GreenSign.png
 Ni 1.00
+newmtl pasted__Bench_01SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bench_01_MTL_01_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Bench_01_MTL_01_Roughness.png
+Ns 4.31
 newmtl pasted__CylinderFBXASC046002SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -9803,6 +15772,88 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.20 0.20 0.20
 Ns 34.00
+newmtl pasted__EpipremiumFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coconut.jpg
+Ni 1.00
+Ks 0.05 0.02 0.01
+Ns 0.00
+newmtl pasted__EpipremiumFBXASC046001SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd epipremmium_texture_01.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl pasted__EpipremiumFBXASC046001SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd epipremmium_texture_01.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl pasted__Palm_01SG
+illum 4
+Kd 0.11 0.23 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.06 0.02
+Ns 23.00
+newmtl pasted__SnakePlant_01SG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 23.00
+newmtl pasted__SnakePlant_01SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd soil.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__mesh0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Beanch_albedo.png
+map_Ka Beanch_ao.png
+bump  -bm 0.3 Beanch_normal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Beanch_metalness.png
+Ns 98.00
+newmtl pasted__pasted__phong2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl pasted__pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metaBox.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
 newmtl pasted__phong2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -9820,6 +15871,16 @@ Tf 1.00 1.00 1.00
 map_Kd metaBox.png
 Ni 1.00
 Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl pasted__phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisoText.jpeg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pisoSpec.jpeg
 Ns 18.00
 newmtl pera:lambert7SG
 illum 4
@@ -9853,6 +15914,35 @@ map_Kd metaBox.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cube1_auv2.bmp
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisoText.jpeg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pisoSpec.jpeg
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisoText.jpeg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks pisoSpec.jpeg
+Ns 18.00
 newmtl police_Female_A_model:peopleColors
 illum 4
 Kd 0.00 0.00 0.00
@@ -9876,6 +15966,20 @@ Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd door2.jpg
+Ni 1.00
+newmtl puerta3:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.png
+Ni 1.00
+newmtl puerta3:lambert77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd exitG.jpg
 Ni 1.00
 newmtl queso:initialShadingGroup
 illum 4
@@ -10018,6 +16122,24 @@ map_Kd 0e0c0d4efd6b_a_slushie_machine___texture_kd.jpg
 Ni 1.50
 Ks 0.50 0.50 0.50
 Ns 0.06
+newmtl sweep1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl sweep1SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl sweep1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
 newmtl tapalom:phong7SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -10027,3 +16149,33 @@ map_Kd plata.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
+newmtl tray01SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl tray02SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl tray03SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl tray04SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl tray05SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
