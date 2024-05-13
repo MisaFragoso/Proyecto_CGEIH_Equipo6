@@ -239,6 +239,7 @@ int main()
 	Model queso((char*)"Models/misa/queso/queso.obj");
 	Model sillon((char*)"Models/misa/sillon/sillon.obj");
 	Model slush((char*)"Models/misa/slush/slush.obj");
+	Model EscalerasP((char*)"Models/misa/escaleraExterior/escaleraExterior.obj");
 
 
 
@@ -536,6 +537,7 @@ int main()
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
+		EscalerasP.Draw(lightingShader);
 
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
