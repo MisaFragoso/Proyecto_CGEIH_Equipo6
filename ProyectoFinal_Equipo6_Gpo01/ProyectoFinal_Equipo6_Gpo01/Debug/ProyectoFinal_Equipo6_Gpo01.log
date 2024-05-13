@@ -1,15 +1,12 @@
 ﻿  Main_Principal.cpp
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(297,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(471,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(547,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(557,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(728,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(729,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(733,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(734,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(736,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(737,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
-  ProyectoFinal_Equipo6_Gpo01.vcxproj -> C:\Users\Jony-Prime\Desktop\ProyectoFinal_Equipo6_Gpo01\Debug\ProyectoFinal_Equipo6_Gpo01.exe
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(332,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(544,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(620,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(630,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(801,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(802,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(806,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(807,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(809,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\ProyectoFinal_Equipo6_Gpo01\Main_Principal.cpp(810,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinal_Equipo6_Gpo01.vcxproj -> C:\Users\Jony-Prime\Documents\GitHub\Proyecto_CGEIH_Equipo6\ProyectoFinal_Equipo6_Gpo01\Debug\ProyectoFinal_Equipo6_Gpo01.exe

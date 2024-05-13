@@ -181,7 +181,42 @@ int main()
 	Shader Anim("Shaders/anim.vs", "Shaders/anim.frag");
 	Shader SkyBoxshader("Shaders/SkyBox.vs", "Shaders/SkyBox.frag");
 
-	//Carga de modelos de desarrollo propio 	
+	//Carga de modelos del cine
+	Model asadero((char*)"Models/misa/asadero/asadero.obj");
+	Model ATM((char*)"Models/misa/ATM/ATM.obj");
+	Model barandilla((char*)"Models/misa/barandilla/barandilla.obj");
+	Model bench((char*)"Models/misa/bench/bench.obj");
+	Model bench2((char*)"Models/misa/bench/bench2.obj");
+	Model bocina((char*)"Models/misa/bocina/bocina.obj");
+	Model box((char*)"Models/misa/box/cuerpoBox.obj");
+	Model box2((char*)"Models/misa/box/pera.obj");
+	Model cabina((char*)"Models/misa/cabina/cabina.obj");
+	Model caja((char*)"Models/misa/caja/caja.obj");
+	Model cine((char*)"Models/misa/cine/estrucP.obj");
+	Model escaleras((char*)"Models/misa/escaleras/escaleras.obj");
+	Model estrucint((char*)"Models/misa/estrucint/estrucint.obj");
+	Model extintor((char*)"Models/misa/extintor/extintor.obj");
+
+	/*Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");
+	Model Atril((char*)"Models/misa/.obj");*/
+
+
+
+	//Carga de modelos de la parte musical
 	Model Atril((char*)"Models/1_Atril/atril.obj");
 	Model Atril2((char*)"Models/1_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model CamBas((char*)"Models/2_Camara/bascam.obj");
@@ -460,11 +495,49 @@ int main()
 
 		//+++++++++++++++++++++++++++++++++++++++Carga de modelos de la fachada (SIN TRANSPARENCIA)++++++++++++++
         view = camera.GetViewMatrix();	
+
+		//CARGA DE MODELOS DE MUSICA
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Calle.Draw(lightingShader);
 		Base.Draw(lightingShader);
+
+		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
+		model = glm::mat4(1);
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
+		asadero.Draw(lightingShader);
+		ATM.Draw(lightingShader);
+		barandilla.Draw(lightingShader);
+		bench.Draw(lightingShader);
+		bench2.Draw(lightingShader);
+		bocina.Draw(lightingShader);
+		box.Draw(lightingShader);
+		box2.Draw(lightingShader);
+		cabina.Draw(lightingShader);
+		caja.Draw(lightingShader);
+		cine.Draw(lightingShader);
+		escaleras.Draw(lightingShader);
+		estrucint.Draw(lightingShader);
+		extintor.Draw(lightingShader);
+		/*helado.Draw(lightingShader);
+		hotdog.Draw(lightingShader);
+		kiosko.Draw(lightingShader);
+		lamp1.Draw(lightingShader);
+		letras.Draw(lightingShader);
+		monitor.Draw(lightingShader);
+		palom.Draw(lightingShader);
+		pantalla.Draw(lightingShader);
+		personas.Draw(lightingShader);
+		plantas.Draw(lightingShader);
+		posters.Draw(lightingShader);
+		publi.Draw(lightingShader);
+		puertas.Draw(lightingShader);
+		queso.Draw(lightingShader);
+		sillón.Draw(lightingShader);
+		slush.Draw(lightingShader);*/
+
 
 		//**************************************************************ANIMACION SIMPLE ************************
 
