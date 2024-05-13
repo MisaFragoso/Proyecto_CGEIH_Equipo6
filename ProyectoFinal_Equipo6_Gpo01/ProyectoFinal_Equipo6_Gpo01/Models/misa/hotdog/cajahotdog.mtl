@@ -1433,6 +1433,40 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks Fire_Extinguisher_lambert1_Normal.png
 Ns 18.00
+newmtl fan:Ceiling_fan_Chrome
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.72 0.72 0.72
+Ns 80.00
+newmtl fan:Ceiling_fan_Glass1
+illum 4
+Kd 0.92 0.80 0.78
+Ka 0.00 0.00 0.00
+Tf 0.58 0.58 0.58
+Ni 1.50
+Ks 0.21 0.21 0.21
+Ns 53.00
+newmtl fan:Ceiling_fan_Wood
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ceiling_fan_wood_diff.jpg
+map_Ka Ceiling_fan_wood_diff.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 55.00
+newmtl fan:Ceiling_fan_metal
+illum 4
+Kd 0.69 0.45 0.36
+Ka 0.69 0.45 0.36
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.90 0.90 0.73
+Ns 70.00
 newmtl grillSG1
 illum 4
 Kd 0.00 0.00 0.00
@@ -1540,19 +1574,26 @@ Kd 1.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl lambert9SG
+newmtl lambert13SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd grass.png
+map_Kd wood-d.jpg
 Ni 1.00
-newmtl lambert10SG
+newmtl lambert14SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd empedrado.png
+map_Kd blanco.jpg
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
 Ni 1.00
 newmtl lamp1:glass_milk_new
 illum 4
@@ -15838,6 +15879,27 @@ map_Kd soil.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.00
+newmtl pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood-d.jpg
+Ni 1.00
+newmtl pasted__lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+newmtl pasted__lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
 newmtl pasted__mesh0SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -15895,6 +15957,15 @@ map_Kd pisoText.jpeg
 Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks pisoSpec.jpeg
+Ns 18.00
+newmtl pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood-d.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
 Ns 18.00
 newmtl pera:lambert7SG
 illum 4
@@ -15956,6 +16027,15 @@ map_Kd pisoText.jpeg
 Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks pisoSpec.jpeg
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood-d.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
 Ns 18.00
 newmtl police_Female_A_model:peopleColors
 illum 4
