@@ -196,7 +196,6 @@ int main()
 	Model escaleras((char*)"Models/misa/escaleras/escaleras.obj");
 	Model estrucint((char*)"Models/misa/estrucint/estrucint.obj");
 	Model extintor((char*)"Models/misa/extintor/extintor.obj");
-
 	Model helado((char*)"Models/misa/helado/helado.obj");
 	Model hotdog((char*)"Models/misa/hotdog/cajahotdog.obj");
 	Model hotdog2((char*)"Models/misa/hotdog/hotdog.obj");
@@ -215,8 +214,6 @@ int main()
 	Model pantalla((char*)"Models/misa/pantalla/pantalla.obj");
 	Model personas((char*)"Models/misa/personas/personas.obj");
 	Model plantas((char*)"Models/misa/plantas/plantas.obj");
-	//Model posters((char*)"Models/misa/posters/posters.obj");
-	//Model publi((char*)"Models/misa/publi/publi.obj");
 	Model puerta1((char*)"Models/misa/puertas/puerta1.obj");
 	Model puerta2((char*)"Models/misa/puertas/puerta2.obj");
 	Model queso((char*)"Models/misa/queso/queso.obj");
@@ -581,8 +578,6 @@ int main()
 		pantalla.Draw(lightingShader);
 		personas.Draw(lightingShader);
 		plantas.Draw(lightingShader);
-		//posters.Draw(lightingShader);
-		//publi.Draw(lightingShader);
 		puerta1.Draw(lightingShader);
 		puerta2.Draw(lightingShader);
 		queso.Draw(lightingShader);
