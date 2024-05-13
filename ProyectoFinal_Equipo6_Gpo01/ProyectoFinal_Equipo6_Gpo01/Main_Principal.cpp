@@ -251,7 +251,7 @@ int main()
 	Model Tom2((char*)"Models/jony/6_Bateria/7_tompiso.obj");
 	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
-	//Model LampBase((char*)"Models/Lamps/base.obj");
+	//Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
 	//Model LampInf((char*)"Models/Lamps/lampInf.obj");          //Transparencia y canal alpha
 	//Model LampSup((char*)"Models/Lamps/lampSup.obj");          //Transparencia y canal alpha
 	//Model CamBas((char*)"Models/8_Camara/bascam.obj");
@@ -534,6 +534,7 @@ int main()
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
 		Teclados.Draw(lightingShader);
+		//Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
 		Banquillo.Draw(lightingShader);
