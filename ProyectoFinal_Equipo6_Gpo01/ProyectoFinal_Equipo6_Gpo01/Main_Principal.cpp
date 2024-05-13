@@ -140,7 +140,7 @@ int main()
 	glfwInit();
 	
 	// Create a GLFWwindow object that we can use for GLFW's functions
-	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Tlaxcoapan Reyna Jonathan - Proyecto FInal LAB-CGeIHC - Gpo 13", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Proyecto FInal - CGeIHC -  Equipo 6 - Gpo 1", nullptr, nullptr);
 
 	if (nullptr == window)
 	{
@@ -181,7 +181,7 @@ int main()
 	Shader Anim("Shaders/anim.vs", "Shaders/anim.frag");
 	Shader SkyBoxshader("Shaders/SkyBox.vs", "Shaders/SkyBox.frag");
 
-	//Carga de modelos del cine
+	//Carga de modelos (Misael)
 	Model asadero((char*)"Models/misa/asadero/asadero.obj");
 	Model ATM((char*)"Models/misa/ATM/ATM.obj");
 	Model barandilla((char*)"Models/misa/barandilla/barandilla.obj");
@@ -216,7 +216,7 @@ int main()
 
 
 
-	//Carga de modelos de la parte musical
+	//Carga de modelos (JONY)
 	Model Atril((char*)"Models/1_Atril/atril.obj");
 	Model Atril2((char*)"Models/1_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model CamBas((char*)"Models/2_Camara/bascam.obj");
@@ -224,7 +224,7 @@ int main()
 
 	//Carga de los Modelos/objetos correspondientes a la estructura y la fachada
 	Model Calle((char*)"ModelsEstructura/1_Calle/calle.obj");
-	Model Base((char*)"ModelsEstructura/estructBase/base.obj");
+	//Model Base((char*)"ModelsEstructura/estructBase/base.obj");
 	
 
 	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
@@ -501,7 +501,7 @@ int main()
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Calle.Draw(lightingShader);
-		Base.Draw(lightingShader);
+		//Base.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
