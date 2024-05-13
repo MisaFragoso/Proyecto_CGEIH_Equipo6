@@ -197,34 +197,40 @@ int main()
 	Model estrucint((char*)"Models/misa/estrucint/estrucint.obj");
 	Model extintor((char*)"Models/misa/extintor/extintor.obj");
 
-	/*Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");
-	Model Atril((char*)"Models/misa/.obj");*/
+	Model helado((char*)"Models/misa/helado/helado.obj");
+	Model hotdog((char*)"Models/misa/hotdog/cajahotdog.obj");
+	Model hotdog2((char*)"Models/misa/hotdog/hotdog.obj");
+	Model hotdog3((char*)"Models/misa/hotdog/salchicha.obj");
+	Model hotdog4((char*)"Models/misa/hotdog/salTub1.obj");
+	Model hotdog5((char*)"Models/misa/hotdog/salTub2.obj");
+	Model hotdog6((char*)"Models/misa/hotdog/salTub3.obj");
+
+	Model kiosko((char*)"Models/misa/kiosko/kiosko.obj");
+	Model lamp1((char*)"Models/misa/lamp1/lamp1.obj");
+	Model lamp2((char*)"Models/misa/lamp1/lamp2.obj");
+	Model letras((char*)"Models/misa/letras/letras.obj");
+	Model monitor((char*)"Models/misa/monitor/monitor.obj");
+	Model palom((char*)"Models/misa/palom/palom.obj");
+	Model palom2((char*)"Models/misa/palom/tapapalom.obj");
+	/*Model pantalla((char*)"Models/misa/pantalla/pantalla.obj");
+	Model personas((char*)"Models/misa/personas/personas.obj");
+	Model plantas((char*)"Models/misa/plantas/plantas.obj");
+	Model posters((char*)"Models/misa/posters/posters.obj");
+	Model publi((char*)"Models/misa/publi/.obj");
+	Model puertas((char*)"Models/misa/puertas/.obj");
+	Model queso((char*)"Models/misa/queso/.obj");
+	Model sillon((char*)"Models/misa/sillon/.obj");
+	Model slush((char*)"Models/misa/slush/.obj");*/
 
 
 
 	//Carga de modelos (JONY)
-	Model Atril((char*)"Models/1_Atril/atril.obj");
+	Model At((char*)"Models/jony/_/.obj");
 	Model Atril2((char*)"Models/1_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model CamBas((char*)"Models/2_Camara/bascam.obj");
 	Model Cam((char*)"Models/2_Camara/cam.obj");
 
-	//Carga de los Modelos/objetos correspondientes a la estructura y la fachada
-	Model Calle((char*)"ModelsEstructura/1_Calle/calle.obj");
-	//Model Base((char*)"ModelsEstructura/estructBase/base.obj");
+	
 	
 
 	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
@@ -500,7 +506,7 @@ int main()
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		Calle.Draw(lightingShader);
+		//Calle.Draw(lightingShader);
 		//Base.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
@@ -521,9 +527,14 @@ int main()
 		escaleras.Draw(lightingShader);
 		estrucint.Draw(lightingShader);
 		extintor.Draw(lightingShader);
-		/*helado.Draw(lightingShader);
+		helado.Draw(lightingShader);
 		hotdog.Draw(lightingShader);
-		kiosko.Draw(lightingShader);
+		hotdog2.Draw(lightingShader);
+		hotdog4.Draw(lightingShader);
+		hotdog5.Draw(lightingShader);
+		hotdog6.Draw(lightingShader);
+		hotdog3.Draw(lightingShader);
+		/*kiosko.Draw(lightingShader);
 		lamp1.Draw(lightingShader);
 		letras.Draw(lightingShader);
 		monitor.Draw(lightingShader);
@@ -562,7 +573,7 @@ int main()
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		
-		Atril.Draw(lightingShader);
+		//Atril.Draw(lightingShader);
 		
 
 			
