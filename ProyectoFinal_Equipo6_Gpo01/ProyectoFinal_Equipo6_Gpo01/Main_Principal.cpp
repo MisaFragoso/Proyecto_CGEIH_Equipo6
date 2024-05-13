@@ -205,36 +205,37 @@ int main()
 	Model hotdog5((char*)"Models/misa/hotdog/salTub2.obj");
 	Model hotdog6((char*)"Models/misa/hotdog/salTub3.obj");
 
-	Model kiosko((char*)"Models/misa/kiosko/kiosko.obj");
+	//Model kiosko((char*)"Models/misa/kiosko/kiosko.obj");
 	Model lamp1((char*)"Models/misa/lamp1/lamp1.obj");
 	Model lamp2((char*)"Models/misa/lamp1/lamp2.obj");
 	Model letras((char*)"Models/misa/letras/letras.obj");
 	Model monitor((char*)"Models/misa/monitor/monitor.obj");
 	Model palom((char*)"Models/misa/palom/palom.obj");
-	Model palom2((char*)"Models/misa/palom/tapapalom.obj");
-	/*Model pantalla((char*)"Models/misa/pantalla/pantalla.obj");
+	Model palom2((char*)"Models/misa/palom/tapalom.obj");
+	Model pantalla((char*)"Models/misa/pantalla/pantalla.obj");
 	Model personas((char*)"Models/misa/personas/personas.obj");
 	Model plantas((char*)"Models/misa/plantas/plantas.obj");
-	Model posters((char*)"Models/misa/posters/posters.obj");
-	Model publi((char*)"Models/misa/publi/.obj");
-	Model puertas((char*)"Models/misa/puertas/.obj");
-	Model queso((char*)"Models/misa/queso/.obj");
-	Model sillon((char*)"Models/misa/sillon/.obj");
-	Model slush((char*)"Models/misa/slush/.obj");*/
+	//Model posters((char*)"Models/misa/posters/posters.obj");
+	//Model publi((char*)"Models/misa/publi/publi.obj");
+	Model puerta1((char*)"Models/misa/puertas/puerta1.obj");
+	Model puerta2((char*)"Models/misa/puertas/puerta2.obj");
+	Model queso((char*)"Models/misa/queso/queso.obj");
+	Model sillon((char*)"Models/misa/sillon/sillon.obj");
+	Model slush((char*)"Models/misa/slush/slush.obj");
 
 
 
 	//Carga de modelos (JONY)
-	Model At((char*)"Models/jony/_/.obj");
-	Model Atril2((char*)"Models/1_Atril/atrilresp.obj");       //Transparencia y canal alpha
-	Model CamBas((char*)"Models/2_Camara/bascam.obj");
-	Model Cam((char*)"Models/2_Camara/cam.obj");
+	Model Fachada((char*)"Models/jony/Fachada/exterior.obj");
+	Model Ventanales((char*)"Models/Fachada/ventanal.obj");       //Transparencia y canal alpha
+	//Model CamBas((char*)"Models/2_Camara/bascam.obj");
+	//Model Cam((char*)"Models/2_Camara/cam.obj");
 
 	
 	
 
 	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
-	Model Dron((char*)"ModelsWebIA/Dron/dron.obj");
+	//Model Dron((char*)"ModelsWebIA/Dron/dron.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -506,8 +507,8 @@ int main()
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		//Calle.Draw(lightingShader);
-		//Base.Draw(lightingShader);
+		Fachada.Draw(lightingShader);
+		//Ventanales.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
@@ -534,20 +535,23 @@ int main()
 		hotdog5.Draw(lightingShader);
 		hotdog6.Draw(lightingShader);
 		hotdog3.Draw(lightingShader);
-		/*kiosko.Draw(lightingShader);
+		//kiosko.Draw(lightingShader);
 		lamp1.Draw(lightingShader);
+		lamp2.Draw(lightingShader);
 		letras.Draw(lightingShader);
 		monitor.Draw(lightingShader);
 		palom.Draw(lightingShader);
+		palom2.Draw(lightingShader);
 		pantalla.Draw(lightingShader);
 		personas.Draw(lightingShader);
 		plantas.Draw(lightingShader);
-		posters.Draw(lightingShader);
-		publi.Draw(lightingShader);
-		puertas.Draw(lightingShader);
+		//posters.Draw(lightingShader);
+		//publi.Draw(lightingShader);
+		puerta1.Draw(lightingShader);
+		puerta2.Draw(lightingShader);
 		queso.Draw(lightingShader);
-		sillón.Draw(lightingShader);
-		slush.Draw(lightingShader);*/
+		sillon.Draw(lightingShader);
+		slush.Draw(lightingShader);
 
 
 		//**************************************************************ANIMACION SIMPLE ************************
@@ -565,7 +569,7 @@ int main()
 		model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
 		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		Cam.Draw(lightingShader);
+		//Cam.Draw(lightingShader);
 
 
 		// ++++++++++++++++++++++++++++++++++Carga de los modelos principales (SIN TRANSPARENCIA)+++++++++++++
@@ -588,7 +592,7 @@ int main()
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.5f);  //Color de la transparencia y valor de transparencia de alpha
 		
 		//Carga de objetos principales con transparencia
-		Atril2.Draw(lightingShader);
+		//Atril2.Draw(lightingShader);
 
 		glDisable(GL_BLEND);  //Desactiva el canal alfa 
 
@@ -651,7 +655,7 @@ int main()
 		model = glm::rotate(model, glm::radians(oscillation_angle4), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1f(glGetUniformLocation(Anim.Program, "time"), tiempo);
-		Dron.Draw(Anim);
+		//Dron.Draw(Anim);
 		glBindVertexArray(0);
 
 
