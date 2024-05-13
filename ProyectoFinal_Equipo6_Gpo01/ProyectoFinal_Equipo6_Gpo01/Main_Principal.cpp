@@ -231,8 +231,32 @@ int main()
 	Model Idi((char*)"Models/jony/Idi/edificio.obj");
 	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");
 	Model Pisup((char*)"Models/jony/Pisosup/pisoSup.obj");
+	Model Teclados((char*)"Models/jony/8_Teclado/teclados.obj");
 	
-	
+	//Model Banca((char*)"Models/1_Banca/bancas.obj");
+	//Model Atril((char*)"Models/2_Atril/atril.obj");
+	//Model Atril2((char*)"Models/2_Atril/atrilresp.obj");       //Transparencia y canal alpha
+	//Model Librero((char*)"Models/3_Librero/librero.obj");
+	//Model Palmera((char*)"Models/4_Palmera/palmeras.obj");
+	//Model SmartTv((char*)"Models/5_SmartTv/smartvs.obj");
+	//Model Comedor((char*)"Models/6_Silla/comedor.obj");
+	//Model Comedor2((char*)"Models/6_Silla/comedor2.obj");
+	//Model Comedor3((char*)"Models/6_Silla/comedor3.obj");
+	//Model Comedor4((char*)"Models/6_Silla/comedor4.obj");
+	Model Ride((char*)"Models/jony/6_Bateria/1_ride.obj");
+	Model Hithat((char*)"Models/jony/6_Bateria/2_hithat.obj");
+	Model Crash((char*)"Models/jony/6_Bateria/3_crash.obj");
+	Model Banquillo((char*)"Models/jony/6_Bateria/4_banco.obj");
+	Model Tarola((char*)"Models/jony/6_Bateria/5_tarola.obj");
+	Model Toms((char*)"Models/jony/6_Bateria/6_toms.obj");
+	Model Tom2((char*)"Models/jony/6_Bateria/7_tompiso.obj");
+	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");
+	//Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");          //Transparencia y canal alpha
+	//Model LampBase((char*)"Models/Lamps/base.obj");
+	//Model LampInf((char*)"Models/Lamps/lampInf.obj");          //Transparencia y canal alpha
+	//Model LampSup((char*)"Models/Lamps/lampSup.obj");          //Transparencia y canal alpha
+	//Model CamBas((char*)"Models/8_Camara/bascam.obj");
+	//Model Cam((char*)"Models/8_Camara/cam.obj");
 
 	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
 	//Model Dron((char*)"ModelsWebIA/Dron/dron.obj");
@@ -510,6 +534,15 @@ int main()
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
+		Teclados.Draw(lightingShader);
+
+		Ride.Draw(lightingShader);
+		Hithat.Draw(lightingShader);
+		Banquillo.Draw(lightingShader);
+		Tarola.Draw(lightingShader);
+		Toms.Draw(lightingShader);
+		Tom2.Draw(lightingShader);
+		Crash.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
@@ -595,6 +628,7 @@ int main()
 		//Carga de objetos principales con transparencia
 		Ventanales.Draw(lightingShader);
 		Ventidi.Draw(lightingShader);
+		Aros.Draw(lightingShader);
 
 		glDisable(GL_BLEND);  //Desactiva el canal alfa 
 
