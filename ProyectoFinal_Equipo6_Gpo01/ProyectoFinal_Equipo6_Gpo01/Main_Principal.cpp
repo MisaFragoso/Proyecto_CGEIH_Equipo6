@@ -227,7 +227,7 @@ int main()
 
 	//Carga de modelos (JONY)
 	Model Fachada((char*)"Models/jony/Fachada/exterior.obj");
-	Model Ventanales((char*)"Models/Fachada/ventanal.obj");       //Transparencia y canal alpha
+	Model Ventanales((char*)"Models/jony/Fachada/ventanal.obj");       //Transparencia y canal alpha
 	//Model CamBas((char*)"Models/2_Camara/bascam.obj");
 	//Model Cam((char*)"Models/2_Camara/cam.obj");
 
@@ -592,7 +592,7 @@ int main()
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.5f);  //Color de la transparencia y valor de transparencia de alpha
 		
 		//Carga de objetos principales con transparencia
-		//Atril2.Draw(lightingShader);
+		Ventanales.Draw(lightingShader);
 
 		glDisable(GL_BLEND);  //Desactiva el canal alfa 
 
