@@ -1,0 +1,1379 @@
+newmtl _aros:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd acrilico.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _aros:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd acrilico.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SpecularMapIDI.png
+Ns 18.00
+newmtl _banco:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _banco:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _banco:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _crash:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _crash:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _crash:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd goldenP.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _crash:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _hithat:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _hithat:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _hithat:pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd goldenP.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _hithat:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd goldenP.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _hithat:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _ride:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _ride:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _ride:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd goldenP.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _ride:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _tarola:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _tarola:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _tarola:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl _tarola:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd red.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _tarola:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _tompiso:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _tompiso:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _tompiso:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd red.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _tompiso:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd goldenP.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _tompiso:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _toms:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl _toms:lambert1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _toms:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+newmtl _toms:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd red.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl _toms:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ecd51e48c066_musical_keyboard__3:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ecd51e48c066_musical_keyboard__3_texture_kd.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl ecd51e48c066_musical_keyboard__4:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ecd51e48c066_musical_keyboard__3_texture_kd.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl ecd51e48c066_musical_keyboard__5:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ecd51e48c066_musical_keyboard__3_texture_kd.jpg
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl guitar:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl guitar:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 5_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 7_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 9_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 11_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar:phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 13_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl guitar1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar1:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar1:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar1:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar1:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 5_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 7_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl guitar1:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 9_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 11_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl guitar1:phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 13_BaseColor.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text3_guit.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text4_bajo.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text5.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text1_orador.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text2_women.jpg
+Ni 1.00
+newmtl librero:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero1:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero1:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero2:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero2:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero2:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero3:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero3:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero3:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero4:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero4:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero4:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero5:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero5:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero5:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero6:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero6:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero6:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl palmera:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textPalm.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks asperezaPalm.jpg
+Ns 18.00
+newmtl palmera:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textMace.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks brilloMace.jpg
+Ns 18.00
+newmtl palmera1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textPalm.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks asperezaPalm.jpg
+Ns 18.00
+newmtl palmera1:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textMace.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks brilloMace.jpg
+Ns 18.00
+newmtl palmera2:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textPalm.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks asperezaPalm.jpg
+Ns 18.00
+newmtl palmera2:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textMace.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks brilloMace.jpg
+Ns 18.00
+newmtl palmera3:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textPalm.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks asperezaPalm.jpg
+Ns 18.00
+newmtl palmera3:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textMace.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks brilloMace.jpg
+Ns 18.00
+newmtl palmera4:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textPalm.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks asperezaPalm.jpg
+Ns 18.00
+newmtl palmera4:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textMace.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks brilloMace.jpg
+Ns 18.00
+newmtl pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd text2_women.jpg
+Ni 1.00

@@ -1,0 +1,100 @@
+newmtl librero:base_material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero:base_material2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd e7ad0d462544_wooden_bookcase__3d_texture_kd.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.50
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl librero:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00
+newmtl librero:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+map_Ka AmbientOcclusionMap.png
+Ni 1.00

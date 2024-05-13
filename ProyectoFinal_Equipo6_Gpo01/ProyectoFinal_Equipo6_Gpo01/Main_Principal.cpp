@@ -237,7 +237,7 @@ int main()
 	//Model Atril((char*)"Models/2_Atril/atril.obj");
 	//Model Atril2((char*)"Models/2_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model Palmeras((char*)"Models/jony/3_Palmeras/palmeras.obj");
-	//Model SmartTv((char*)"Models/5_SmartTv/smartvs.obj");
+	Model Librero((char*)"Models/jony/4_Librero/libreros.obj");
 	//Model Comedor((char*)"Models/6_Silla/comedor.obj");
 	//Model Comedor2((char*)"Models/6_Silla/comedor2.obj");
 	//Model Comedor3((char*)"Models/6_Silla/comedor3.obj");
@@ -251,7 +251,7 @@ int main()
 	Model Tom2((char*)"Models/jony/6_Bateria/7_tompiso.obj");
 	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
-	//Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
+	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
 	//Model LampInf((char*)"Models/Lamps/lampInf.obj");          //Transparencia y canal alpha
 	//Model LampSup((char*)"Models/Lamps/lampSup.obj");          //Transparencia y canal alpha
 	//Model CamBas((char*)"Models/8_Camara/bascam.obj");
@@ -534,7 +534,7 @@ int main()
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
 		Teclados.Draw(lightingShader);
-		//Guitar.Draw(lightingShader);
+		Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
 		Banquillo.Draw(lightingShader);
@@ -544,6 +544,7 @@ int main()
 		Crash.Draw(lightingShader);
 		Palmeras.Draw(lightingShader);
 		People.Draw(lightingShader);
+		Librero.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
