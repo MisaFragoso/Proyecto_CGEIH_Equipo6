@@ -230,7 +230,7 @@ int main()
 	Model Ventanales((char*)"Models/jony/Fachada/ventanal.obj");       //Transparencia y canal alpha
 	Model Idi((char*)"Models/jony/Idi/edificio.obj");
 	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");
-
+	Model Pisup((char*)"Models/jony/Pisosup/pisoSup.obj");
 	
 	
 
@@ -509,6 +509,7 @@ int main()
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
+		Pisup.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
