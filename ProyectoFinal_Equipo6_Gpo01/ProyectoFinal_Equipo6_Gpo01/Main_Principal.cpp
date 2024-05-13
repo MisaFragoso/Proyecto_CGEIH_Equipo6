@@ -237,7 +237,7 @@ int main()
 	//Model Atril((char*)"Models/2_Atril/atril.obj");
 	//Model Atril2((char*)"Models/2_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model Palmeras((char*)"Models/jony/3_Palmeras/palmeras.obj");
-	Model Librero((char*)"Models/jony/4_Librero/libreros.obj");
+	//Model Librero((char*)"Models/jony/4_Librero/libreros.obj");
 	//Model Comedor((char*)"Models/6_Silla/comedor.obj");
 	//Model Comedor2((char*)"Models/6_Silla/comedor2.obj");
 	//Model Comedor3((char*)"Models/6_Silla/comedor3.obj");
@@ -544,7 +544,7 @@ int main()
 		Crash.Draw(lightingShader);
 		Palmeras.Draw(lightingShader);
 		People.Draw(lightingShader);
-		Librero.Draw(lightingShader);
+		//Librero.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
