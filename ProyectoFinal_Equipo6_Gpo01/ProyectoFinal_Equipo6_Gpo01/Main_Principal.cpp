@@ -228,8 +228,8 @@ int main()
 	//Carga de modelos (JONY)
 	Model Fachada((char*)"Models/jony/Fachada/exterior.obj");
 	Model Ventanales((char*)"Models/jony/Fachada/ventanal.obj");       //Transparencia y canal alpha
-	//Model CamBas((char*)"Models/2_Camara/bascam.obj");
-	//Model Cam((char*)"Models/2_Camara/cam.obj");
+	Model Idi((char*)"Models/jony/Idi/edificio.obj");
+	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");
 
 	
 	
@@ -508,7 +508,7 @@ int main()
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Fachada.Draw(lightingShader);
-		//Ventanales.Draw(lightingShader);
+		Idi.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
@@ -593,6 +593,7 @@ int main()
 		
 		//Carga de objetos principales con transparencia
 		Ventanales.Draw(lightingShader);
+		Ventidi.Draw(lightingShader);
 
 		glDisable(GL_BLEND);  //Desactiva el canal alfa 
 
