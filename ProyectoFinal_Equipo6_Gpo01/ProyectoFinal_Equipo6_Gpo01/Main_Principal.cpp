@@ -26,6 +26,7 @@
 void KeyCallback(GLFWwindow *window, int key, int scancode, int action, int mode);
 void MouseCallback(GLFWwindow *window, double xPos, double yPos);
 void DoMovement();
+void animacion();
 
 // Window dimensions
 const GLuint WIDTH = 800, HEIGHT = 600;
@@ -51,6 +52,27 @@ float rot2 = 0.0f;
 bool anim = false;
 bool anim2 = false;
 float speed = 1.0f;
+
+//Variables para controlar las rotaciones
+float rotPuerta1 = 0.0f;
+float rotPuerta2 = 0.0f;
+float rotPera = 0.0f;
+
+//Variables para desplazar 
+float despHotDog = 0.0f;
+
+//Banderas de estados
+bool animPera1 = false;
+bool animPera2 = false;
+
+bool animPuerta11 = false;
+bool animPuerta12 = false;
+
+bool animPuerta21 = false;
+bool animPuerta22 = false;
+
+bool hotDogAbrir = false;
+bool hotDogCerrar = false;
 
 // Variables para la animacion simple 1 de la puerta Izquierda
 float angle_offset = 0.0f;
@@ -203,8 +225,6 @@ int main()
 	Model hotdog4((char*)"Models/misa/hotdog/salTub1.obj");
 	Model hotdog5((char*)"Models/misa/hotdog/salTub2.obj");
 	Model hotdog6((char*)"Models/misa/hotdog/salTub3.obj");
-
-	//Model kiosko((char*)"Models/misa/kiosko/kiosko.obj");
 	Model lamp1((char*)"Models/misa/lamp1/lamp1.obj");
 	Model lamp2((char*)"Models/misa/lamp1/lamp2.obj");
 	Model letras((char*)"Models/misa/letras/letras.obj");
@@ -230,15 +250,7 @@ int main()
 	Model Pisup((char*)"Models/jony/Pisosup/pisoSup.obj");
 	Model Teclados((char*)"Models/jony/8_Teclado/teclados.obj");
 	
-	//Model Banca((char*)"Models/1_Banca/bancas.obj");
-	//Model Atril((char*)"Models/2_Atril/atril.obj");
-	//Model Atril2((char*)"Models/2_Atril/atrilresp.obj");       //Transparencia y canal alpha
 	Model Palmeras((char*)"Models/jony/3_Palmeras/palmeras.obj");
-	//Model Librero((char*)"Models/jony/4_Librero/libreros.obj");
-	//Model Comedor((char*)"Models/6_Silla/comedor.obj");
-	//Model Comedor2((char*)"Models/6_Silla/comedor2.obj");
-	//Model Comedor3((char*)"Models/6_Silla/comedor3.obj");
-	//Model Comedor4((char*)"Models/6_Silla/comedor4.obj");
 	Model Ride((char*)"Models/jony/6_Bateria/1_ride.obj");
 	Model Hithat((char*)"Models/jony/6_Bateria/2_hithat.obj");
 	Model Crash((char*)"Models/jony/6_Bateria/3_crash.obj");
@@ -249,13 +261,6 @@ int main()
 	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
-	//Model LampInf((char*)"Models/Lamps/lampInf.obj");          //Transparencia y canal alpha
-	//Model LampSup((char*)"Models/Lamps/lampSup.obj");          //Transparencia y canal alpha
-	//Model CamBas((char*)"Models/8_Camara/bascam.obj");
-	//Model Cam((char*)"Models/8_Camara/cam.obj");
-
-	//Carga de modelos WEB free y de Inteligencia artificial por Luma AI
-	//Model Dron((char*)"ModelsWebIA/Dron/dron.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -363,6 +368,7 @@ int main()
 		// Check if any events have been activiated (key pressed, mouse moved etc.) and call corresponding response functions
 		glfwPollEvents();
 		DoMovement();
+		animacion();
 
 		// Clear the colorbuffer
 		glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
@@ -530,6 +536,10 @@ int main()
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
+
+		model = glm::mat4(1);
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
 		Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
@@ -539,9 +549,8 @@ int main()
 		Toms.Draw(lightingShader);
 		Tom2.Draw(lightingShader);
 		Crash.Draw(lightingShader);
-		Palmeras.Draw(lightingShader);
-		People.Draw(lightingShader);
-		//Librero.Draw(lightingShader);
+		/*Palmeras.Draw(lightingShader);
+		People.Draw(lightingShader);*/
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
@@ -553,8 +562,6 @@ int main()
 		bench.Draw(lightingShader);
 		bench2.Draw(lightingShader);
 		bocina.Draw(lightingShader);
-		box.Draw(lightingShader);
-		box2.Draw(lightingShader);
 		cabina.Draw(lightingShader);
 		caja.Draw(lightingShader);
 		cine.Draw(lightingShader);
@@ -562,13 +569,11 @@ int main()
 		estrucint.Draw(lightingShader);
 		extintor.Draw(lightingShader);
 		helado.Draw(lightingShader);
-		hotdog.Draw(lightingShader);
 		hotdog2.Draw(lightingShader);
 		hotdog4.Draw(lightingShader);
 		hotdog5.Draw(lightingShader);
 		hotdog6.Draw(lightingShader);
 		hotdog3.Draw(lightingShader);
-		//kiosko.Draw(lightingShader);
 		lamp1.Draw(lightingShader);
 		lamp2.Draw(lightingShader);
 		letras.Draw(lightingShader);
@@ -578,29 +583,61 @@ int main()
 		pantalla.Draw(lightingShader);
 		personas.Draw(lightingShader);
 		plantas.Draw(lightingShader);
-		puerta1.Draw(lightingShader);
-		puerta2.Draw(lightingShader);
 		queso.Draw(lightingShader);
 		sillon.Draw(lightingShader);
 		slush.Draw(lightingShader);
 
+		//----------------------------------------------------------------Animacion para el cine****************
+
+		// PUERTA1
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(68.536f, 8.507f, -6.404f));
+		model = glm::rotate(model, glm::radians(rotPuerta1), glm::vec3(0.0f, 1.0f, 0.0f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		puerta1.Draw(lightingShader);
+
+		// PUERTA2
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(83.185f, 2.0f, -30.159f));
+		model = glm::rotate(model, glm::radians(rotPuerta2), glm::vec3(0.0f, 1.0f, 0.0f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		puerta2.Draw(lightingShader);
+
+		// BOXEO
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(80.6f, 4.5f, 9.2f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		box.Draw(lightingShader);
+		//// PERA
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(80.6f, 4.5f, 9.2f));
+		model = glm::rotate(model, glm::radians(rotPera), glm::vec3(1.0f, 0.0f, 0.0f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		box2.Draw(lightingShader);
+
+		// CAJAHOTDOG
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(despHotDog, 0.0f, 0.0f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		hotdog.Draw(lightingShader);
+
 
 		//**************************************************************ANIMACION SIMPLE ************************
 
-		float oscillation_angle3 = sin(glfwGetTime() * angular_speed3) * 45.0f; 
-		float rotation_angle3 = oscillation_angle3 + angle_offset;
-		rotation_angle3 = glm::clamp(rotation_angle3, -45.0f, 45.0f);
+		//float oscillation_angle3 = sin(glfwGetTime() * angular_speed3) * 45.0f; 
+		//float rotation_angle3 = oscillation_angle3 + angle_offset;
+		//rotation_angle3 = glm::clamp(rotation_angle3, -45.0f, 45.0f);
 
-		if (rotation_angle3 >= 45.0f || rotation_angle3 <= -45.0f) {
-			angle_offset3 = -angle_offset3; 
-		}
+		//if (rotation_angle3 >= 45.0f || rotation_angle3 <= -45.0f) {
+		//	angle_offset3 = -angle_offset3; 
+		//}
 
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
-		model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
-		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		//Cam.Draw(lightingShader);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
+		//model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
+		//glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
+		////Cam.Draw(lightingShader);
 
 
 		// ++++++++++++++++++++++++++++++++++Carga de los modelos principales (SIN TRANSPARENCIA)+++++++++++++
@@ -767,7 +804,135 @@ void DoMovement()
 			rot2 -= 4.0f;
 		}
 	}
+	//----------------------------------------------------------
+	//Animacion Pera
+	if (keys[GLFW_KEY_B])
+	{
+		animPera1 = true;
+		animPera2 = false;
+	}
 
+	//Animacion Puerta1
+	if (keys[GLFW_KEY_O])
+	{
+		animPuerta11 = true;
+		animPuerta12 = false;
+	}
+
+	//Animacion Puerta2
+	if (keys[GLFW_KEY_P])
+	{
+		animPuerta21 = true;
+		animPuerta22 = false;
+	}
+
+	//Animacion HotDog
+	if (keys[GLFW_KEY_H])
+	{
+		hotDogAbrir = true;
+		hotDogCerrar = false;
+	}
+
+}
+
+void animacion()
+{
+
+	//Movimiento de la pera
+	if (animPera1) {
+		if (rotPera <= 75.0f) {
+			rotPera += 5.0f;
+		}
+		else {
+			animPera1 = false;
+			if (keys[GLFW_KEY_B]) {
+				animPera2 = true;
+			}
+		}
+	}
+	if (animPera2) {
+		if (rotPera >= 0.0f) {
+			rotPera -= 1.0f;
+		}
+		else {
+			animPera2 = false;
+			if (keys[GLFW_KEY_B]) {
+				animPera1 = true;
+			}
+		}
+	}
+
+	//Movimiento de la puerta1
+	if (animPuerta11) {
+		if (rotPuerta1 <= 90.0f) {
+			rotPuerta1 += 1.0f;
+		}
+		else {
+			animPuerta11 = false;
+			if (keys[GLFW_KEY_O]) {
+				animPuerta12 = true;
+			}
+		}
+	}
+	if (animPuerta12) {
+		if (rotPuerta1 >= 0.0f) {
+			rotPuerta1 -= 1.0f;
+		}
+		else {
+			animPuerta12 = false;
+			if (keys[GLFW_KEY_O]) {
+				animPuerta11 = true;
+			}
+		}
+	}
+
+
+	//Movimiento de la puerta2
+	if (animPuerta21) {
+		if (rotPuerta2 >= -90.0f) {
+			rotPuerta2 -= 1.0f;
+		}
+		else {
+			animPuerta21 = false;
+			if (keys[GLFW_KEY_P]) {
+				animPuerta22 = true;
+			}
+		}
+	}
+	if (animPuerta22) {
+		if (rotPuerta2 <= 0.0f) {
+			rotPuerta2 += 1.0f;
+		}
+		else {
+			animPuerta22 = false;
+			if (keys[GLFW_KEY_P]) {
+				animPuerta21 = true;
+			}
+		}
+	}
+	//Apertura de caja hotDog
+	if (hotDogAbrir) {
+		if (despHotDog <= 0.15f) {
+			despHotDog += 0.005f;
+		}
+		else {
+			hotDogAbrir = false;
+			if (keys[GLFW_KEY_H]) {
+				hotDogCerrar = true;
+			}
+		}
+	}
+	if (hotDogCerrar) {
+		if (despHotDog >= 0.0f) {
+			despHotDog -= 0.005f;
+		}
+		else {
+			hotDogCerrar = false;
+			if (keys[GLFW_KEY_H]) {
+				hotDogAbrir = true;
+			}
+		}
+	}
 }
 
 // Is called whenever a key is pressed/released via GLFW  ---     Tu animacion se puede detener con una tecla
