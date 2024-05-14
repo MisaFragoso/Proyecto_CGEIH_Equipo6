@@ -541,7 +541,7 @@ int main()
 		EscP.Draw(lightingShader);
 		EscP2.Draw(lightingShader);
 
-		/*Teclados.Draw(lightingShader);
+		Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
@@ -583,7 +583,7 @@ int main()
 		plantas.Draw(lightingShader);
 		queso.Draw(lightingShader);
 		sillon.Draw(lightingShader);
-		slush.Draw(lightingShader);*/
+		slush.Draw(lightingShader);
 
 		//---------------------------------------------------ANIMACION DENTRO DEL CINE****************
 
