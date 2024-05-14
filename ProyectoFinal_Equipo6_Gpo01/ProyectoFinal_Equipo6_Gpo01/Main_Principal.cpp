@@ -239,7 +239,7 @@ int main()
 	Model queso((char*)"Models/misa/queso/queso.obj");
 	Model sillon((char*)"Models/misa/sillon/sillon.obj");
 	Model slush((char*)"Models/misa/slush/slush.obj");
-	Model EscalerasP((char*)"Models/misa/escaleraExterior/escaleraExterior.obj");
+	Model EscP((char*)"Models/misa/escExt.obj");
 
 
 
@@ -537,12 +537,12 @@ int main()
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
-		EscalerasP.Draw(lightingShader);
+		EscP.Draw(lightingShader);
 
-		model = glm::mat4(1);
+		/*model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		Teclados.Draw(lightingShader);
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);*/
+		/*Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
@@ -550,7 +550,7 @@ int main()
 		Tarola.Draw(lightingShader);
 		Toms.Draw(lightingShader);
 		Tom2.Draw(lightingShader);
-		Crash.Draw(lightingShader);
+		Crash.Draw(lightingShader);*/
 		/*Palmeras.Draw(lightingShader);
 		People.Draw(lightingShader);*/
 
