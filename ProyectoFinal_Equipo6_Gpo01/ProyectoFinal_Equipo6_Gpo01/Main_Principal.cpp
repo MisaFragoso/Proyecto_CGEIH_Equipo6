@@ -93,10 +93,10 @@ glm::vec3 pointLightPositions[] = {
 	glm::vec3(-64.598f, 9.48f, 45.229f),  //1
 	glm::vec3(-66.806f, 15.5f, 28.889f),  //2
 	glm::vec3(2.0f, 5.615f, 6.36f),  //3
-	glm::vec3(2.0f,  7.5f, -38.5f),  //4 Luces inferiores
-	glm::vec3(2.0f,  7.5f, -30.5f),  //5
-	glm::vec3(2.0f,  7.5f, -22.5f),  //6
-	glm::vec3(2.0f,  7.5f, -14.5f)   //7
+	glm::vec3(71.517f,  10.743f, 11.72f),  //4 Luces inferiores
+	//glm::vec3(2.0f,  7.5f, -30.5f),  //5
+	//glm::vec3(2.0f,  7.5f, -22.5f),  //6
+	//glm::vec3(2.0f,  7.5f, -14.5f)   //7
 };
 
 float vertices[] = {
@@ -625,7 +625,7 @@ int main()
 		//******************************************************ANIMACION de camara de sguridad ************************
 
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(-54.905f, 10.738f, 14.973f));
+		model = glm::translate(model, glm::vec3(-55.905f, 10.738f, 13.973f));
 		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		basCam.Draw(lightingShader);
@@ -639,7 +639,7 @@ int main()
 		}
 
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(-54.905f, 10.738f, 12.973f));
+		model = glm::translate(model, glm::vec3(-55.905f, 10.738f, 13.973f));
 		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
 		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
