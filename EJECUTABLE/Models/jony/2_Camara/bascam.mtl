@@ -1,0 +1,60 @@
+newmtl bascam:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl cam:Bubble
+illum 4
+Kd 0.19 0.18 0.18
+Ka 1.00 1.00 1.00
+Tf 0.00 0.00 0.00
+Ni 1.02
+Ks 0.92 0.96 0.99
+Ns 19.00
+newmtl cam:Plastic
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.06 0.06 0.06
+Ni 1.10
+Ks 1.00 1.00 1.00
+Ns 69.00
+newmtl cam:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd plataMetal.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl cam:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd black1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl cam:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd azulMet.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl cam:set1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
