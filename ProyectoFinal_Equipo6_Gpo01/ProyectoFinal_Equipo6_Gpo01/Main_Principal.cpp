@@ -240,7 +240,7 @@ int main()
 	Model sillon((char*)"Models/misa/sillon/sillon.obj");
 	Model slush((char*)"Models/misa/slush/slush.obj");
 	Model EscP((char*)"Models/misa/escaleraExterior/esc1.obj");
-	//Model EscP((char*)"Models/misa/escExt.obj");
+	Model EscP2((char*)"Models/misa/escaleraExterior/esc2.obj");
 
 
 
@@ -539,21 +539,20 @@ int main()
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
 		EscP.Draw(lightingShader);
+		EscP2.Draw(lightingShader);
 
-		/*model = glm::mat4(1);
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);*/
-		/*Teclados.Draw(lightingShader);
+		Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
+
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
 		Banquillo.Draw(lightingShader);
 		Tarola.Draw(lightingShader);
 		Toms.Draw(lightingShader);
 		Tom2.Draw(lightingShader);
-		Crash.Draw(lightingShader);*/
-		/*Palmeras.Draw(lightingShader);
-		People.Draw(lightingShader);*/
+		Crash.Draw(lightingShader);
+		Palmeras.Draw(lightingShader);
+		People.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
 		model = glm::mat4(1);
