@@ -204,7 +204,7 @@ int main()
 	Shader SkyBoxshader("Shaders/SkyBox.vs", "Shaders/SkyBox.frag");
 
 	//Carga de modelos (Misael)
-	Model asadero((char*)"Models/misa/asadero/asadero.obj");
+	Model Cafe((char*)"Models/misa/cafe/cafe.obj");
 	Model ATM((char*)"Models/misa/ATM/ATM.obj");
 	Model barandilla((char*)"Models/misa/barandilla/barandilla.obj");
 	Model bench((char*)"Models/misa/bench/bench.obj");
@@ -241,6 +241,7 @@ int main()
 	Model slush((char*)"Models/misa/slush/slush.obj");
 	Model EscP((char*)"Models/misa/escaleraExterior/esc1.obj");
 	Model EscP2((char*)"Models/misa/escaleraExterior/esc2.obj");
+	Model Ventilador((char*)"Models/misa/ventilador/vent1.obj");
 
 	//Carga de modelos (JONY)
 	Model Fachada((char*)"Models/jony/Fachada/exterior.obj");
@@ -556,7 +557,7 @@ int main()
 		Arboles.Draw(lightingShader);
 		People.Draw(lightingShader);
 
-		asadero.Draw(lightingShader);
+		Cafe.Draw(lightingShader);
 		ATM.Draw(lightingShader);
 		barandilla.Draw(lightingShader);
 		bench.Draw(lightingShader);
@@ -586,6 +587,7 @@ int main()
 		queso.Draw(lightingShader);
 		sillon.Draw(lightingShader);
 		slush.Draw(lightingShader);
+		Ventilador.Draw(lightingShader);
 
 		//---------------------------------------------------ANIMACION DENTRO DEL CINE****************
 
