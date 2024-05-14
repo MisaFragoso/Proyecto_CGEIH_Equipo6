@@ -239,7 +239,8 @@ int main()
 	Model queso((char*)"Models/misa/queso/queso.obj");
 	Model sillon((char*)"Models/misa/sillon/sillon.obj");
 	Model slush((char*)"Models/misa/slush/slush.obj");
-	Model EscP((char*)"Models/misa/escExt.obj");
+	Model EscP((char*)"Models/misa/escaleraExterior/esc1.obj");
+	//Model EscP((char*)"Models/misa/escExt.obj");
 
 
 
