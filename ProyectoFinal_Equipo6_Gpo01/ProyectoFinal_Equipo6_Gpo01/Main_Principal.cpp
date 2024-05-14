@@ -261,7 +261,7 @@ int main()
 	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");           //Transparencia y canal alpha
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
-	//Model Dron((char*)"Models/jony/Dron/dron.obj");
+	Model Dron((char*)"Models/jony/Dron/dron.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -723,7 +723,7 @@ int main()
 		model = glm::rotate(model, glm::radians(oscillation_angle4), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1f(glGetUniformLocation(Anim.Program, "time"), tiempo);
-		//Dron.Draw(Anim);
+		Dron.Draw(Anim);
 		glBindVertexArray(0);
 
 
