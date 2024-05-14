@@ -242,13 +242,11 @@ int main()
 	Model EscP((char*)"Models/misa/escaleraExterior/esc1.obj");
 	Model EscP2((char*)"Models/misa/escaleraExterior/esc2.obj");
 
-
-
 	//Carga de modelos (JONY)
 	Model Fachada((char*)"Models/jony/Fachada/exterior.obj");
-	Model Ventanales((char*)"Models/jony/Fachada/ventanal.obj");       //Transparencia y canal alpha
+	Model Ventanales((char*)"Models/jony/Fachada/ventanal.obj");   //Transparencia y canal alpha
 	Model Idi((char*)"Models/jony/Idi/edificio.obj");
-	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");
+	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");          //Transparencia y canal alpha
 	Model Pisup((char*)"Models/jony/Pisosup/pisoSup.obj");
 	Model Teclados((char*)"Models/jony/8_Teclado/teclados.obj");
 	Model Arboles((char*)"Models/jony/Vegetacion/arboles.obj");
@@ -260,9 +258,10 @@ int main()
 	Model Tarola((char*)"Models/jony/6_Bateria/5_tarola.obj");
 	Model Toms((char*)"Models/jony/6_Bateria/6_toms.obj");
 	Model Tom2((char*)"Models/jony/6_Bateria/7_tompiso.obj");
-	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");
+	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");           //Transparencia y canal alpha
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
+	Model Dron((char*)"Models/jony/Dron/dron.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -555,10 +554,6 @@ int main()
 		Arboles.Draw(lightingShader);
 		People.Draw(lightingShader);
 
-		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
-		/*model = glm::mat4(1);
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);*/
 		asadero.Draw(lightingShader);
 		ATM.Draw(lightingShader);
 		barandilla.Draw(lightingShader);
@@ -590,7 +585,7 @@ int main()
 		sillon.Draw(lightingShader);
 		slush.Draw(lightingShader);
 
-		//----------------------------------------------------------------Animacion para el cine****************
+		//---------------------------------------------------ANIMACION DENTRO DEL CINE****************
 
 		// PUERTA1
 		model = glm::mat4(1);
@@ -702,7 +697,7 @@ int main()
 		glBindVertexArray(0);
 
 
-		//----------------------------------------------------------------------------Animaci�n COMPLEJA------------
+		//----------------------------------------------------------------------------Animaci�n del Dron------------
 		Anim.Use();
 		model = glm::mat4(1);
 		tiempo = glfwGetTime() * speed;
@@ -728,7 +723,7 @@ int main()
 		model = glm::rotate(model, glm::radians(oscillation_angle4), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1f(glGetUniformLocation(Anim.Program, "time"), tiempo);
-		//Dron.Draw(Anim);
+		Dron.Draw(Anim);
 		glBindVertexArray(0);
 
 
