@@ -262,6 +262,8 @@ int main()
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
 	Model Dron((char*)"Models/jony/Dron/dron.obj");
+	Model Cam((char*)"Models/jony/2_Camara/cam.obj");
+	Model basCam((char*)"Models/jony/2_Camara/bascam.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -620,30 +622,27 @@ int main()
 		hotdog.Draw(lightingShader);
 
 
-		//**************************************************************ANIMACION SIMPLE ************************
+		//******************************************************ANIMACION de camara de sguridad ************************
 
-		//float oscillation_angle3 = sin(glfwGetTime() * angular_speed3) * 45.0f; 
-		//float rotation_angle3 = oscillation_angle3 + angle_offset;
-		//rotation_angle3 = glm::clamp(rotation_angle3, -45.0f, 45.0f);
-
-		//if (rotation_angle3 >= 45.0f || rotation_angle3 <= -45.0f) {
-		//	angle_offset3 = -angle_offset3; 
-		//}
-
-		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
-		//model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
-		//glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		////Cam.Draw(lightingShader);
-
-
-		// ++++++++++++++++++++++++++++++++++Carga de los modelos principales (SIN TRANSPARENCIA)+++++++++++++
 		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		basCam.Draw(lightingShader);
+
+		float oscillation_angle3 = sin(glfwGetTime() * angular_speed3) * 45.0f; 
+		float rotation_angle3 = oscillation_angle3 + angle_offset;
+		rotation_angle3 = glm::clamp(rotation_angle3, -45.0f, 45.0f);
+
+		if (rotation_angle3 >= 45.0f || rotation_angle3 <= -45.0f) {
+			angle_offset3 = -angle_offset3; 
+		}
+
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
+		model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
+		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
-		
-		//Atril.Draw(lightingShader);
+		Cam.Draw(lightingShader);
 		
 
 			
