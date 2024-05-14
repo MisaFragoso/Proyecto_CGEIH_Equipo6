@@ -49,9 +49,12 @@ bool active2;
 float tiempo;
 float rot = 0.0f;
 float rot2 = 0.0f;
+float rotVent = 5.0f;
 bool anim = false;
 bool anim2 = false;
 float speed = 1.0f;
+bool ventON = false;
+bool ventOFF = false;
 
 //Variables para controlar las rotaciones
 float rotPuerta1 = 0.0f;
@@ -623,6 +626,12 @@ int main()
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		hotdog.Draw(lightingShader);
 
+		// ventilador
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(0.0f, 14.513f, 35.267f));
+		model = glm::rotate(model, glm::radians(rotVent), glm::vec3(0.0f, 1.0f, 0.0f));
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		Ventilador.Draw(lightingShader);
 
 		//******************************************************ANIMACION de camara de sguridad ************************
 
@@ -814,10 +823,30 @@ void DoMovement()
 		hotDogCerrar = false;
 	}
 
+	//Animacion Ventlador
+	if (keys[GLFW_KEY_V])
+	{
+		ventON = true;
+		ventOFF = false;
+	}
+
 }
 
 void animacion()
 {
+
+	//Movimiento deL Ventilador
+	if (ventON) {
+		if (rotVent >= 1.0f) {
+			rotVent += 0.8f;
+		}
+		else {
+			ventON = false;
+			if (keys[GLFW_KEY_V]) {
+				ventOFF = true;
+			}
+		}
+	}
 
 	//Movimiento de la pera
 	if (animPera1) {
