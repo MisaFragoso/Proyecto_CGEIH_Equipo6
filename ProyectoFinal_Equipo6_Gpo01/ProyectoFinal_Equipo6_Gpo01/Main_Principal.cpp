@@ -89,9 +89,9 @@ float angular_speed4 = 1.0f;
 
 // Positions of the point lights
 glm::vec3 pointLightPositions[] = {
-	glm::vec3(2.0f, 17.0f, -34.5f),  //0 Luces superiores
-	glm::vec3(2.0f, 17.0f, -18.7f),  //1
-	glm::vec3(2.0f, 17.0f,  -2.4f),  //2
+	glm::vec3(-64.598f, 9.48f, 29.525),  //0 Luces superiores
+	glm::vec3(-64.598f, 9.48f, 45.229f),  //1
+	glm::vec3(-66.806f, 15.5f, 28.889f),  //2
 	glm::vec3(2.0f, 5.615f, 6.36f),  //3
 	glm::vec3(2.0f,  7.5f, -38.5f),  //4 Luces inferiores
 	glm::vec3(2.0f,  7.5f, -30.5f),  //5
@@ -611,13 +611,13 @@ int main()
 		//// PERA
 		model = glm::mat4(1);
 		model = glm::translate(model, glm::vec3(80.6f, 4.5f, 9.2f));
-		model = glm::rotate(model, glm::radians(rotPera), glm::vec3(1.0f, 0.0f, 0.0f));
+		model = glm::rotate(model, glm::radians(rotPera), glm::vec3(0.0f, 0.0f, 1.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		box2.Draw(lightingShader);
 
 		// CAJAHOTDOG
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(despHotDog, 0.0f, 0.0f));
+		model = glm::translate(model, glm::vec3(0.0f, 0.0f, despHotDog));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		hotdog.Draw(lightingShader);
 
@@ -625,7 +625,8 @@ int main()
 		//******************************************************ANIMACION de camara de sguridad ************************
 
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
+		model = glm::translate(model, glm::vec3(-54.905f, 10.738f, 14.973f));
+		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		basCam.Draw(lightingShader);
 
@@ -638,7 +639,8 @@ int main()
 		}
 
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(2.046f, 5.469f, 2.462f));
+		model = glm::translate(model, glm::vec3(-54.905f, 10.738f, 12.973f));
+		model = glm::rotate(model, glm::radians(90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 		model = glm::rotate(model, glm::radians(oscillation_angle3), glm::vec3(0.0f, 1.0f, 0.0f)); 
 		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
