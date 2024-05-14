@@ -251,7 +251,7 @@ int main()
 	Model Ventidi((char*)"Models/jony/Idi/ventanas.obj");
 	Model Pisup((char*)"Models/jony/Pisosup/pisoSup.obj");
 	Model Teclados((char*)"Models/jony/8_Teclado/teclados.obj");
-	
+	Model Arboles((char*)"Models/jony/Vegetacion/arboles.obj");
 	Model Palmeras((char*)"Models/jony/3_Palmeras/palmeras.obj");
 	Model Ride((char*)"Models/jony/6_Bateria/1_ride.obj");
 	Model Hithat((char*)"Models/jony/6_Bateria/2_hithat.obj");
@@ -535,6 +535,7 @@ int main()
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
+
 		Fachada.Draw(lightingShader);
 		Idi.Draw(lightingShader);
 		Pisup.Draw(lightingShader);
@@ -543,7 +544,6 @@ int main()
 
 		Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
-
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
 		Banquillo.Draw(lightingShader);
@@ -552,12 +552,13 @@ int main()
 		Tom2.Draw(lightingShader);
 		Crash.Draw(lightingShader);
 		Palmeras.Draw(lightingShader);
+		Arboles.Draw(lightingShader);
 		People.Draw(lightingShader);
 
 		//CARGA DE MODELOS DEL CINE Y CENTRO COMERCIAL
-		model = glm::mat4(1);
+		/*model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);*/
 		asadero.Draw(lightingShader);
 		ATM.Draw(lightingShader);
 		barandilla.Draw(lightingShader);
