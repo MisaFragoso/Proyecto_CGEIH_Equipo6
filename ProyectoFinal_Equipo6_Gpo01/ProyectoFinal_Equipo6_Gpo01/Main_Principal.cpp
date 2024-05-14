@@ -261,7 +261,7 @@ int main()
 	Model Aros((char*)"Models/jony/6_Bateria/8_aros.obj");           //Transparencia y canal alpha
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
-	Model Dron((char*)"Models/jony/Dron/dron.obj");
+	//Model Dron((char*)"Models/jony/Dron/dron.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
@@ -395,9 +395,9 @@ int main()
 
 		// Point light 1
 	    glm::vec3 lightColor;
-		lightColor.x= Light1.x;//abs(sin(glfwGetTime() *Light1.x));
-		lightColor.y= Light1.y;//abs(sin(glfwGetTime() *Light1.y));
-		lightColor.z= Light1.z;//sin(glfwGetTime() *Light1.z);		
+		lightColor.x= Light1.x;
+		lightColor.y= Light1.y;
+		lightColor.z= Light1.z;	
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "pointLights[0].position"), pointLightPositions[0].x, pointLightPositions[0].y, pointLightPositions[0].z);
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "pointLights[0].ambient"), lightColor.x,lightColor.y, lightColor.z);
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "pointLights[0].diffuse"), lightColor.x,lightColor.y,lightColor.z);
@@ -541,7 +541,7 @@ int main()
 		EscP.Draw(lightingShader);
 		EscP2.Draw(lightingShader);
 
-		Teclados.Draw(lightingShader);
+		/*Teclados.Draw(lightingShader);
 		Guitar.Draw(lightingShader);
 		Ride.Draw(lightingShader);
 		Hithat.Draw(lightingShader);
@@ -583,7 +583,7 @@ int main()
 		plantas.Draw(lightingShader);
 		queso.Draw(lightingShader);
 		sillon.Draw(lightingShader);
-		slush.Draw(lightingShader);
+		slush.Draw(lightingShader);*/
 
 		//---------------------------------------------------ANIMACION DENTRO DEL CINE****************
 
@@ -723,7 +723,7 @@ int main()
 		model = glm::rotate(model, glm::radians(oscillation_angle4), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1f(glGetUniformLocation(Anim.Program, "time"), tiempo);
-		Dron.Draw(Anim);
+		//Dron.Draw(Anim);
 		glBindVertexArray(0);
 
 
@@ -768,26 +768,6 @@ void DoMovement()
 
 	if (keys[GLFW_KEY_D] || keys[GLFW_KEY_RIGHT])
 	{	camera.ProcessKeyboard(RIGHT, deltaTime);	}
-
-	// Para mover la luz
-	/*if (keys[GLFW_KEY_T])
-	{	pointLightPositions[0].x += 0.1f;	}
-
-	if (keys[GLFW_KEY_G])
-	{	pointLightPositions[0].x -= 0.1f;	}
-
-	if (keys[GLFW_KEY_Y])
-	{	pointLightPositions[0].y += 0.01f;	}
-
-	if (keys[GLFW_KEY_H])
-	{	pointLightPositions[0].y -= 0.01f;	}
-
-	if (keys[GLFW_KEY_U])
-	{	pointLightPositions[0].z -= 0.01f;	}
-
-	if (keys[GLFW_KEY_J])
-	{	pointLightPositions[0].z += 0.01f;	}*/
-
 
 	//Animacion de la puerta Izq
 	if (anim) {
