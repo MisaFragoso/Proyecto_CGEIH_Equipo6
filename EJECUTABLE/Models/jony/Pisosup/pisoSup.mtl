@@ -1,0 +1,3957 @@
+newmtl barandilla:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla1:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla2:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla3:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla4:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla5:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla6:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla7:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla8:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla9:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla10:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla11:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla12:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla13:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla14:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla15:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:Cube_1_29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd materials_Cube_1_2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_2
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_4
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_6
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_8
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_10
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_12
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_14
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_16
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_18
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_20
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_22
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_24
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_26
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_28
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl barandilla16:default_1_30
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 64.00
+newmtl calle:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd calle.jpg
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mosaB.jpg
+Ni 1.00
+newmtl pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mosaB.jpg
+Ni 1.00
+newmtl pisoSup:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pisoSup:pasted__phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pisoSup:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pisoSup:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pisoSup1:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl pisoSup1:pasted__phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pisoSup1:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pisoSup1:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
