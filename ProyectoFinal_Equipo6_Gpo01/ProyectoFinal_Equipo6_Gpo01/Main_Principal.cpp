@@ -262,8 +262,8 @@ int main()
 	Model People((char*)"Models/jony/7_Personas/personas.obj");
 	Model Guitar((char*)"Models/jony/9_Guitarra/guitarras.obj");
 	Model Dron((char*)"Models/jony/Dron/dron.obj");
-	Model Cam((char*)"Models/jony/2_Camara/cam.obj");
-	Model basCam((char*)"Models/jony/2_Camara/bascam.obj");
+	Model Cam((char*)"Models/jony/2_Camara/2cam.obj");
+	Model basCam((char*)"Models/jony/2_Camara/1bascam.obj");
 
 	GLfloat skyboxVertices[] = {
 		// Positions
